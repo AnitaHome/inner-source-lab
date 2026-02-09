@@ -1,0 +1,5 @@
+# 這是一個註解：將所有 JS 檔案交由你（前端負責人）審核
+*.js @your-username
+
+# 將所有文件夾 docs 下的內容交由你審核
+/docs/ @your-username
